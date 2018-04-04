@@ -5,4 +5,4 @@ Works Windows, Mac, and Linux (Tested).
 Download Jar file and run it.
 
 
-https://github.com/Msarker1/Auto-ShutDown/blob/master/Tanvir_ShutDown.PNG
+![alt text](https://github.com/Msarker1/Auto-ShutDown/blob/master/Tanvir_ShutDown.PNG)
