@@ -4,5 +4,7 @@ Works Windows, Mac, and Linux (Tested).
 
 Download Jar file and run it.
 
+To Stop simply X out.
+
 
 ![alt text](https://github.com/Msarker1/Auto-ShutDown/blob/master/Tanvir_ShutDown.PNG)
