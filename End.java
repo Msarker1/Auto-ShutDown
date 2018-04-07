@@ -70,8 +70,6 @@ public class End {
 						command  = "shutdown -h now";
 					}
 					else if (os.toUpperCase().contains("Windows".toUpperCase())) {
-						//Runtime.getRuntime().exec(new String[] {"cmd.exe","/c","start" ,"cmd.exe", "/K" ,"echo shutting-down...&& shutdown -s -t 5"});
-						//Runtime.getRuntime().exec( "taskkill /F cmd.exe");
 						command  = "shutdown.exe -s -t 0";
 					}
 					else
